@@ -1,0 +1,166 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.description {
+    margin-top: 20px;
+}
+
+.sessions-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sessions-list li {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.sessions-list li h2 {
+    margin: 0;
+}
+
+.sessions-list li button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.description {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sessions-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sessions-list li {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.sessions-list li h2 {
+    margin: 0;
+}
+
+.sessions-list li button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
